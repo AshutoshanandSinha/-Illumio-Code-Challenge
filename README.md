@@ -5,7 +5,7 @@ Coding Assignment
 
 Run: python test_firewall.py 
 
-To use your own csv, change the filename in firewall_test.py and add test cases accordingly
+To use your own csv, change the filename in test_firewall.py and add test cases accordingly
 I have not provided option for CLI file path.
 
 Logic:
