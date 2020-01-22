@@ -1,4 +1,4 @@
-# -Illumio-Code-Challenge
+# Illumio-Code-Challenge
 
 Coding Assignment
 
